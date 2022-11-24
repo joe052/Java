@@ -1,3 +1,4 @@
+package task1;
 public class Infant extends Child implements Speak {
     Infant(String name) {
         super(name);        

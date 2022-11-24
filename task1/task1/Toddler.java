@@ -1,3 +1,4 @@
+package task1;
 public class Toddler extends Walk {
     private String name;
 

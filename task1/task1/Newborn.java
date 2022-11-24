@@ -1,3 +1,5 @@
+package task1;
+
 public class Newborn extends Child implements Eat{
 
     Newborn(String name) {
