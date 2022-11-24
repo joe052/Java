@@ -1,4 +1,4 @@
-package task2;
+package chatApplication;
 
 import java.awt.*;
 import javax.swing.*;
